@@ -1,4 +1,5 @@
 # fibonacci
+[![Build Status](http://13.61.171.101/buildStatus/icon?job=fibonacci)](http://13.61.171.101/job/fibonacci/)
 
 #!/usr/bin/env bash
 # fib.sh - print the first n Fibonacci numbers (starting from 0, 1)
